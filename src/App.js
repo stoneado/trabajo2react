@@ -1,7 +1,7 @@
 
 import './App.css';
 import NavBar from './components/navBar/NavBar';
-import iconoCarrito from './components/navBar/cartWidget';
+
 
 
 function App() {
@@ -9,7 +9,7 @@ function App() {
     <div className="App">
       <header>
    <NavBar />
-    <iconoCarrito />
+   
 
    </header>
     </div>
