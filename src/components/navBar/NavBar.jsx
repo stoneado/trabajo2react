@@ -1,4 +1,4 @@
-import iconoCarrito from "./cartWidget"
+
 const NavBar = () => {
     return (
         <>

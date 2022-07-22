@@ -1,6 +1,6 @@
 const iconoCarrito = () => {
         return (
-            <>
+          
             <div>
         <i class="bi bi-cart3">
 
@@ -12,10 +12,8 @@ const iconoCarrito = () => {
 
 
 </div>
-            </>
+            
         )
 
 
 }
-
-export default iconoCarrito
