@@ -1,5 +1,4 @@
-import { slide as Menu } from 'react-burger-menu'
-
+import iconoCarrito from "./cartWidget"
 const NavBar = () => {
     return (
         <>
@@ -15,12 +14,14 @@ const NavBar = () => {
                 <li> <a href="#">Carrito</a></li>
                 <li> <a href="#">Contacto</a></li>
                 <li> <a href="#">Como comprar?</a></li>
-
+               
             </ul>
+
+           
             
         </nav>
+  
 
- 
         </header>
 
 

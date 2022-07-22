@@ -1,16 +1,17 @@
 
 import './App.css';
-import NavBar from './components/NavBar';
+import NavBar from './components/navBar/NavBar';
 
 
 
 function App() {
   return (
     <div className="App">
+      <header>
    <NavBar />
+    <iconoCarrito />
 
-
-
+   </header>
     </div>
   );
 }
